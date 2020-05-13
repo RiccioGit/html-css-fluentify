@@ -3,3 +3,15 @@ margin: 0px;
 padding: 0;
 box-sizing: border-box;
 }
+
+header {
+  /* debug */
+  height: 400px;
+  background-color: lightgreen;
+}
+
+footer {
+  /* debug */
+  height: 150px;
+  background-color: green;
+}
